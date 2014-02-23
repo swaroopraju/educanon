@@ -1,7 +1,3 @@
-educanon
-========
-
-Docs for eduCanon's API
 eduCanon's API Documentation
 ===
 Requesting data through the API
